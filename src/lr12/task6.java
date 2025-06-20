@@ -44,7 +44,6 @@ public class task6 {
     }
 
     public static void main(String[] args) throws Exception {
-        // Создаем большой массив для демонстрации
         int[] largeArray = {
                 100, 200, 14, 9, 24, 17, 42, 75, 114, 176,
                 130, 945, 129, 700, 145, 86, 345, 96, 1241};
